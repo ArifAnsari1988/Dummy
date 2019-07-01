@@ -1,2 +1,2 @@
-# PulseMeditech
+# Dummy
 Health Domain Application
